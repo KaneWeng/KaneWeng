@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaneWeng
-- 👀 I’m interested in playing basketball, doing math, watching animes
-- 🌱 I’m currently learning python
+- 👀 I’m interested in playing basketball, math, science, engineering
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
